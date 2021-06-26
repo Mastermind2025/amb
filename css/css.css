@@ -1,0 +1,12 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.box{
+	width: 250px;
+	height: 100px;
+	background: olive;
+	border: 2px dashed red;
+	
+}
