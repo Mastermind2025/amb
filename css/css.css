@@ -69,6 +69,7 @@ body{ background: gray; }
 	font-size: 13pt;
 	font-weight: 100;
 	font-weight: bold;
+	color: gray;
 }
 .section__cycle_About{
 	font-size: 13pt;
@@ -119,7 +120,7 @@ svg.header__logo{
 	/* border: 1px dashed red; */
 	background: url('../img/logo.png') no-repeat;
 	background-size: 50%;
-	margin: -10px 0px -4px 95px;
+	margin: -19px 0px -4px 95px;
 	height: 63px;
 }
 .section__main_href{
@@ -225,6 +226,7 @@ section.section__cycle{
 	font-size: 13pt;
 	font-weight: 100;
 	font-weight: bold;
+	color: gray;
 }
 h1.section___six_big_title{
 	/* border: 1px orange dashed; */
@@ -323,6 +325,7 @@ a.section___six_title{
 	font-size: 14pt;
 	font-weight: bold;
 	margin: 5px 0 0 -14px;
+	color: gray;
 }
 .section__four_title01{
 	/* border: 4px dashed red; */
@@ -390,10 +393,12 @@ a.section__four_button{	/* yellow button */
 	background-position: 124px 5px;
 	border-radius: 7px;
 	margin: 106px 0 0 18px;
+	font-weight: bold;
 }
 a.section__four_button02{	/*button */
 	display: block;
-	color: blue;
+	color: #5372e4;
+	font-weight: bold;
 	width: 180px;
 	height: 45px;
 	padding: 11px 25px;
@@ -405,7 +410,7 @@ a.section__four_button02{	/*button */
 }
 a.section__four_button02:hover{	/*button */
 	display: block;
-	color: white;
+	color: #f8f8f8;
 	width: 180px;
 	height: 45px;
 	padding: 11px 25px;
@@ -415,11 +420,11 @@ a.section__four_button02:hover{	/*button */
 	margin: 67px 0 0 23px;
 	border: 2px solid silver;
 	transition: var(--transition);
-	
+	/* color: red; */
 }
 a.section__four_button03{	/*button */
 	display: block;
-	color: blue;
+	color: #5372e4;
 	width: 180px;
 	height: 45px;
 	padding: 11px 25px;
@@ -428,6 +433,7 @@ a.section__four_button03{	/*button */
 	border-radius: 7px;
 	margin: 106px 0 0 21px;
 	border: 2px solid silver;
+	font-weight: bold;
 }
 a.section__four_button03:hover{	/*button */
 	display: block;
@@ -444,7 +450,7 @@ a.section__four_button03:hover{	/*button */
 }
 a.section__four_button04{	/*button */
 	display: block;
-	color: blue;
+	color: #5372e4;
 	width: 180px;
 	height: 45px;
 	padding: 11px 25px;
@@ -453,6 +459,7 @@ a.section__four_button04{	/*button */
 	border-radius: 7px;
 	margin: 105px 0 0 21px;
 	border: 2px solid silver;
+	font-weight: bold;
 }
 a.section__four_button04:hover{	/*button */
 	display: block;
@@ -504,9 +511,9 @@ ul.footer__columns{
 
 }
 div.underground p{
-	background: #1928b0;
+	background: #161a41;
 	margin-top: 106px;
-	margin-left: -3px;
+	margin-left: -1px;
 	margin-bottom: 12px;
 	padding: 5px;
 	color: white;
@@ -521,7 +528,7 @@ footer.footer{
 li.footer__columns_item ul li p{
 	/* border: 2px dashed olive; */
 	width: 223px;
-	margin: -7px 0 0 103px;
+	margin: -1px 0 0 103px;
 }
 .footer__columns_item:nth-child(1){
 	width: 333px;
@@ -564,8 +571,8 @@ form input{
 	display: block;
 	/* border: 1px dashed red; */
 }
-li.footer__columns_item a.footer__icons{
-	display: block;
+li.footer__columns_item a.footer__icons{/*small icons in footer*/
+	display: block;						/*fb small icons in footer*/
 	width: 35px;
 	height: 35px;
 	background: url(../img/spr.png) no-repeat;
@@ -573,34 +580,47 @@ li.footer__columns_item a.footer__icons{
 	background-position: 6px 5px;
 	background-size: 655%;
 	margin-left: 10px;
+	transition: var(--transition);
 }
-li.footer__columns_item a.footer__icons02{
-	display: block;
-	width: 35px;
-	height: 35px;
+li.footer__columns_item a.footer__icons:hover{
+	background: url(../img/spr4.png) no-repeat;
+	background-position: 6px 5px;
+	background-size: 655%;
+	
+}
+li.footer__columns_item a.icons02{/*instagram small icons in footer*/
+	
 	background: url(../img/spr.png) no-repeat;
-	/* border: 1px black dashed; */
-	background-position: -42px 5px;
+	background-position: -44px 5px;
+	background-size: 655%;
+	
+}
+li.footer__columns_item a.icons02:hover{
+background: url(../img/spr4.png) no-repeat;
+background-position: -44px 5px;
+background-size: 655%;
+}
+li.footer__columns_item a.icons03{/*YouTube small icons in footer*/
+	background: url(../img/spr.png) no-repeat;
+	background-position: -97px 4px;
 	background-size: 655%;
 	margin-left: 10px;
 }
-li.footer__columns_item a.footer__icons03{
-	display: block;
-	width: 35px;
-	height: 35px;
-	background: url(../img/spr.png) no-repeat;
-	/* border: 1px black dashed; */
-	background-position: -91px 4px;
+li.footer__columns_item a.icons03:hover{
+	background: url(../img/spr4.png) no-repeat;
+	background-position: -97px 4px;
 	background-size: 655%;
 	margin-left: 10px;
 }
-li.footer__columns_item a.footer__icons04{
-	display: block;
-	width: 35px;
-	height: 35px;
+li.footer__columns_item a.icons04{/*Twitter small icons in footer*/
 	background: url(../img/spr.png) no-repeat;
-	/* border: 1px black dashed; */
-	background-position: -140px 5px;
+	background-position: -147px 5px;
+	background-size: 655%;
+	margin-left: 10px;
+}
+li.footer__columns_item a.icons04:hover{
+	background: url(../img/spr4.png) no-repeat;
+	background-position: -147px 5px;
 	background-size: 655%;
 	margin-left: 10px;
 }
