@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+	<html lang="en">
 <head>
 	<title>title</title>
 	<meta charset="utf-8" />
@@ -25,11 +25,11 @@
 		
 			<p class='section__main_Florida'>Tallahassee, Florida</p>
 			<h1 class='section__main_title'>
-Revolutioning the way<br>
+Revolutioning the way</br>
 people and company works
 			</h1>
 		<p class='section__main_revenue'>
-Interregional institutions might also assist<br>
+Interregional institutions might also assist</br>
 Governments in revenue mobilization measures.
 		</p>
 	</div>
@@ -50,8 +50,8 @@ Governments in revenue mobilization measures.
 Our Goals
 			</h1>
 		<p class='section__We_believe'>
-We believe work is about people and ideas. qSpace are inhabited by<br>
-forward thinkers, innovators and game changers who are confident in<br>
+We believe work is about people and ideas. qSpace are inhabited by</br>
+forward thinkers, innovators and game changers who are confident in</br>
 achieving their goals. 
 		</p>
 	<a href='#f' class='section__cycle_button_More'>Learn More</a>
@@ -75,8 +75,8 @@ achieving their goals.
 		<a href='#f' class='section___six_title'>Engaging Community</a>
 	
 		<p class='section___six_p'>
-Phasellus suspendisse non, convallis<br>
-quam aliquet volutpat. Netus cras<br>
+Phasellus suspendisse non, convallis</br>
+quam aliquet volutpat. Netus cras</br>
 quam orc.
 		</p>
 	</div>
@@ -87,7 +87,7 @@ quam orc.
 		<a href='#f' class='section___six_title'>Premium Facilities</a>
 		
 		<p class='section___six_p'>
-Diam eu, mauris, in amet viverra. Eget<br>
+Diam eu, mauris, in amet viverra. Eget</br>
  ut scelerisque eget nibh ut quis.
 		</p>
 	</div>
@@ -99,7 +99,7 @@ Diam eu, mauris, in amet viverra. Eget<br>
 		<a href='#f' class='section___six_title'>Affordable Price</a>
 		
 		<p class='section___six_p'>
-Velit, rutrum a cursus eleifend<br>
+Velit, rutrum a cursus eleifend</br>
 egestas.
 		</p>
 	</div>	
@@ -113,8 +113,8 @@ egestas.
 		<a href='#f' class='section___six_title'>Workspace Personalization</a>
 	
 		<p class='section___six_p'>
-Phasellus suspendisse non, convallis<br>
-quam aliquet volutpat. Netus cras<br>
+Phasellus suspendisse non, convallis</br>
+quam aliquet volutpat. Netus cras</br>
 quam orc.
 		</p>
 	</div>
@@ -125,7 +125,7 @@ quam orc.
 		<a href='#f' class='section___six_title'>24/7 Access</a>
 		
 		<p class='section___six_p'>
-Diam eu, mauris, in amet viverra. Eget<br>
+Diam eu, mauris, in amet viverra. Eget</br>
  ut scelerisque eget nibh ut quis.
 		</p>
 	</div>
@@ -136,7 +136,7 @@ Diam eu, mauris, in amet viverra. Eget<br>
 		<a href='#f' class='section___six_title'>Clean Environment</a>
 	
 		<p class='section___six_p'>
-Velit, rutrum a cursus eleifend<br>
+Velit, rutrum a cursus eleifend</br>
 egestas.
 		</p>
 	</div>	
@@ -153,16 +153,16 @@ egestas.
 		<li class='section__four_membership'>
 			<h3 class='section__four_title01'>Office Space</h3>
 			<p class='section__four_p'>
-		Your own private office with<br>
-		a flexible contract that<br>
+		Your own private office with</br>
+		a flexible contract that</br>
 		adapts to your business.
 			</p>
 			<ul>
 				<li class='item_line'>Access 24/7</li>
-				<li class='item_line'>Fully furnished or just<br>
+				<li class='item_line'>Fully furnished or just</br>
 				the space</li>
-				<li class='item_line'>Includes all the perks<br>
-				of a Coworking<br>
+				<li class='item_line'>Includes all the perks</br>
+				of a Coworking</br>
 				Membership
 				</li>
 			</ul>
@@ -173,18 +173,18 @@ egestas.
 		<li class='section__four_membership'>
 			<h3 class='section__four_title01'>Membership</h3>
 			<p class='section__four_p_right'>
-		Work at any of our +3000<br>
-		coworking spaces<br>
+		Work at any of our +3000</br>
+		coworking spaces</br>
 		worldwide
 			</p>
 			<ul>
-				<li class='item_line, gala'>Access during<br>business hours</li>
-				<li class='item_line, gala'>Access to our<br>
-				agenda of<br> networking events<br>
+				<li class='item_line, gala'>Access during</br>business hours</li>
+				<li class='item_line, gala'>Access to our</br>
+				agenda of</br> networking events</br>
 				</li>
-				<li class='item_line, gala'>Join a community of<br>
-				like-minded<br>
-				professionals<br>
+				<li class='item_line, gala'>Join a community of</br>
+				like-minded</br>
+				professionals</br>
 				</li>
 			</ul>
 			<a href='#u' class='section__four_button02'>Learn More</a>
@@ -194,19 +194,19 @@ egestas.
 		<li class='section__four_membership'>
 			<h3 class='section__four_title01'>Private Desk</h3>
 			<p class='section__four_p'>
-		Your own private desk in a<br>
-		shared office, locker<br>
-		included, all with a flexible<br>
+		Your own private desk in a</br>
+		shared office, locker</br>
+		included, all with a flexible</br>
 		contract.
 
 			</p>
 			<ul>
 				<li class='item_line'>Access 24/7</li>
-				<li class='item_line'>Set your business<br>
+				<li class='item_line'>Set your business</br>
 				address at qSpace
 				</li>
-				<li class='item_line'>Free access to 1000+<br>
-				coworking spaces<br>
+				<li class='item_line'>Free access to 1000+</br>
+				coworking spaces</br>
 				worldwide
 				</li>
 			</ul>
@@ -217,16 +217,16 @@ egestas.
 		<li class='section__four_membership'>
 			<h3 class='section__four_title01'>Meeting Room</h3>
 			<p class='section__four_p'>
-		On-demand meeting rooms<br>
-		and event spaces with all<br>
+		On-demand meeting rooms</br>
+		and event spaces with all</br>
 		the services you need.
 			</p>
 			<ul>
-				<li class='item_line, gala'>Choose from variety of<br>
+				<li class='item_line, gala'>Choose from variety of</br>
 				sizes and locations</li>
-				<li class='item_line, gala'>Discounts for<br>
+				<li class='item_line, gala'>Discounts for</br>
 				members
-				<li class='item_line, gala'>Catering and other<br>
+				<li class='item_line, gala'>Catering and other</br>
 				services available
 				</li>
 			</ul>
@@ -245,7 +245,7 @@ egestas.
 		<li class='footer__columns_item'>
 		<a href='#e'><svg class='header__logo'></svg></a>
 			<ul>
-					<li><p>Revolutioning the way<br>
+					<li><p>Revolutioning the way</br>
 					people and company works</p>
 					</li>
 						<li>
