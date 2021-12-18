@@ -130,6 +130,7 @@ svg.header__logo{
 	background: white;
 	border-radius: 7px;
 	box-shadow: 0 8px 26px 0 #7f7f7d;
+	font-weight: bold;
 }
 p.section__main_href:hover,
 a.section__small_Community:hover,
