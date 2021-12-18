@@ -524,9 +524,6 @@ li.footer__columns_item{
 }
 footer.footer{
 	margin: 58px 0;
-	display: flex;
-	flex-wrap: wrap;
-	flex-direction: raw;
 }
 li.footer__columns_item ul li p{
 	/* border: 2px dashed olive; */
@@ -641,4 +638,4 @@ li.footer__columns_item a.icons04:hover{
 	top: -6px;
 }
 
-.box_with_address h2 {color: #4d4d4d ;padding-top: -3px; /*border: 1px dashed red;*/}
+.box_with_address h2 {color: #4d4d4d ;padding-top: -3px; border: 1px dashed red;}

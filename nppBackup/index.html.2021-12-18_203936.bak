@@ -1,5 +1,4 @@
 	<!DOCTYPE html>
-<html lang="en">
 <head>
 	<title>title</title>
 	<meta charset="utf-8" />
@@ -280,11 +279,9 @@ egestas.
 					<li><a href='#e'>Magazine</a></li>
 				</ul>	
 		</li>
-
-</ul>	
 		<div class='box_with_address'>
 		<h2>Subscribe to our<br> newsletter</h2>
-	
+		
 <form>                                                         
 <input type='text' placeholder='Email address' src='img/arr.png'>                                
 	<a href='#e'><svg class='input_icon'></svg></a>
@@ -299,7 +296,7 @@ egestas.
 </form>					
 				</ul>
 		</li>-->
-	
+	</ul>
 
 </footer>
 
