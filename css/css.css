@@ -5,8 +5,7 @@
 --color-yellow-light: #fad8a7;
 --transition: all .5s;
 }
-*{	margin: 0px; padding: 0px; box-sizing:border-box; text-decoration: none;
-list-style: none; font-family: 'DM Sans', sans-serif;}
+*{margin: 0px;padding: 0px;box-sizing:border-box;text-decoration: none;list-style: none;font-family: 'DM Sans', sans-serif;font-size: 12pt;}
 body{ background: gray; }
 .flex{ display: flex; justify-content: flex-start;  }
 
@@ -517,6 +516,7 @@ div.underground p{
 	margin-bottom: 12px;
 	padding: 5px;
 	color: white;
+	font-size: 8pt;
 }
 li.footer__columns_item{
 	/* border: 1px dashed red; */
