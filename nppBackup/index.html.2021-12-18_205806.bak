@@ -286,7 +286,7 @@ egestas.
 		<h2>Subscribe to our<br> newsletter</h2>
 	
 <form>                                                         
-<input type='text' placeholder='Email address' >                                
+<input type='text' placeholder='Email address' src='img/arr.png'>                                
 	<a href='#e'><svg class='input_icon'></svg></a>
 </form>		
 		</div>
