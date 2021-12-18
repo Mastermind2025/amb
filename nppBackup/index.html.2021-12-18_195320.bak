@@ -279,15 +279,7 @@ egestas.
 					<li><a href='#e'>Magazine</a></li>
 				</ul>	
 		</li>
-		<div class='box_with_address'>
-		<h2>Subscribe to our<br> newsletter</h2>
-		
-<form>                                                         
-<input type='text' placeholder='Email address' src='img/arr.png'>                                
-	<a href='#e'><svg class='input_icon'></svg></a>
-</form>		
-		</div>
-	<!--	<li class='footer__columns_item'>
+		<li class='footer__columns_item'>
 				<ul>
 					<li><h2>Subscribe to our newsletter</h2></li>
 <form>                                                         
@@ -295,7 +287,7 @@ egestas.
 	<a href='#e'><svg class='input_icon'></svg></a>
 </form>					
 				</ul>
-		</li>-->
+			</li>
 	</ul>
 
 </footer>

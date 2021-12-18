@@ -633,9 +633,4 @@ li.footer__columns_item a.icons04:hover{
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
-	z-index: 1;
-	position: relative;
-	top: -6px;
 }
-
-.box_with_address h2 {color: #4d4d4d ;padding-top: -3px;}
