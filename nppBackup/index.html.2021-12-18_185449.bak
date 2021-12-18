@@ -34,7 +34,8 @@ Governments in revenue mobilization measures.
 		</p>
 	</div>
 		<p class='section__main_href'>Over 1000+ Happy Customers</p>
-	
+	</div>
+</div>
 </section>
 
 <section class='section__block'>
@@ -44,7 +45,7 @@ Governments in revenue mobilization measures.
 </section>
 
 <section class='section__cycle'><!-- Block with cycle photo second -->
-
+<a name='w'></a>
 <p class='section__cycle_About'>About us</p>
 			<h1 class='section__cycle_Goals'>
 Our Goals
@@ -67,7 +68,7 @@ achieving their goals.
 <h2 class='section___six_small'>Facilities</h2>
 <h1 class='section___six_big_title'>The advantages that we provide</h1>
 <!-- six columns-->
-
+<a name='g'></a>
 <div class='section___six_block'>
 <!--the first -->
 	<div class='section___six_block_column'>
@@ -104,7 +105,7 @@ egestas.
 		</p>
 	</div>	
 </div>
-	
+	<a name='р'></a>
 
 <div class='section___six_block'>
 <!--the forth -->
@@ -234,7 +235,7 @@ egestas.
 			
 		</li>
 		
-		
+		</li>
 	</ul>
 </section>
 </div>

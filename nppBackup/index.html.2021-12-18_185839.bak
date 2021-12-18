@@ -67,7 +67,7 @@ achieving their goals.
 <h2 class='section___six_small'>Facilities</h2>
 <h1 class='section___six_big_title'>The advantages that we provide</h1>
 <!-- six columns-->
-
+<a name='g'></a>
 <div class='section___six_block'>
 <!--the first -->
 	<div class='section___six_block_column'>
@@ -104,7 +104,7 @@ egestas.
 		</p>
 	</div>	
 </div>
-	
+	<a name='р'></a>
 
 <div class='section___six_block'>
 <!--the forth -->
@@ -234,7 +234,7 @@ egestas.
 			
 		</li>
 		
-		
+		</li>
 	</ul>
 </section>
 </div>
